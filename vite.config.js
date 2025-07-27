@@ -3,6 +3,6 @@ import { svelte } from '@sveltejs/vite-plugin-svelte'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: './', // Use './' for relative paths
+  base: '/Personal_website/', // Use './' for relative paths
   plugins: [svelte()],
   })
