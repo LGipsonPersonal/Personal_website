@@ -1,5 +1,5 @@
 <section id="about" class="about">
-  <img src="/src/assets/Profile_photo.jpg" alt="Luke Gipson" class="profile-photo" />
+  <img src="./Profile_photo.jpg" alt="Luke Gipson" class="profile-photo" />
   <div class="about-text">
     <h2>About</h2>
     <p>

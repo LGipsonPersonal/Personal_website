@@ -3,13 +3,13 @@
     {
       title: "Company Portal (WIP)",
       description: "I've been using Svelte to build a typical company website containing things like Timesheets, company insurance information, etc etc, combined with a task management app that allows users contextualize HR information with their current tasks.",
-      image: "/src/assets/svelte.svg",
+      image: "./svelte.svg",
       link: "https://github.com/LGipsonPersonal/OnlinePortal"
     },
     {
       title: "Snippet Box (WIP)",
       description: "I've also been Using Go to build a web application which lets people paste and share snippets of text. This project is made with the help of the \"Let's Go\" book by Alex Edwards.",
-      image: "/src/assets/Go_Logo_Blue.svg",
+      image: "./Snippet_logo.png",
       link: "https://github.com/LGipsonPersonal/snippetBoxPersonal"
     },
   ];
@@ -70,6 +70,7 @@
     box-shadow: 0 4px 24px rgba(44,204,122,0.15);
   }
   .portfolio-item img {
+    margin: 0 auto;
     max-height: 48px;
     margin-bottom: 1rem;
     border-radius: 6px;
