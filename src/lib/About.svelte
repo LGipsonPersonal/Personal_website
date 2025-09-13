@@ -4,7 +4,7 @@
     <h2>About</h2>
     <p>
       Hi, my name is <strong>Lukes Gipson</strong> (but I go by Luke), and I am a Software Developer at 
-      <a href="https://www.keybridgeti.com/" target="_blank" class="highlight">KeyBridge technologies, Inc</a>. My work has mostly consisted of front end development and analyzing client's software for standards compliance, though I have worn many hats.
+      <a href="https://www.keybridgeti.com/" target="_blank" class="highlight">KeyBridge Technologies, LLC</a>. My work has mostly consisted of front end development and analyzing client's software for standards compliance, though I have worn many hats.
     </p>
     <p>
       My technical background includes experience with <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Python</strong>, <strong>Vue</strong>, <strong>Svelte</strong>, <strong>Node.js</strong>, and <strong>Gitlab CI/CD</strong>.
